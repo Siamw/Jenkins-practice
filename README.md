@@ -1,6 +1,6 @@
 # jenkins-practice
 
-> A Vue.js project
+> This is my jenkins practice project
 
 ## Build Setup
 
